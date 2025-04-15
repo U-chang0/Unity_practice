@@ -1,0 +1,23 @@
+[Libraries]
+[Libraries 빼기]
+[Libraries 제외]
+[Libraries 무시]
+[Libraries 무시 처리]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# IDE 설정
+.vscode/
+.idea/
+*.sln
+*.csproj
